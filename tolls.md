@@ -3,8 +3,7 @@
     * Given your route, you will likely encounter some toll sections. A rough estimate for a passenger car could be around €15, depending on the specific toll sections you use.
     * **Estimated Cost: €15**
 * **Hungary:** A digital vignette (e-vignette) is mandatory for using most motorways. For a passenger car, a 10-day vignette would cover your transit.
-    * A 10-day vignette (D1 category) costs approximately **€13.24 (around 6,620 HUF)**.
-    * **Estimated Cost: €14** (rounded up)
+    * A 10-day vignette costs 24€
 * **Romania:** A digital vignette (rovinieta) is mandatory for all vehicles (except motorcycles) on the national road network.
     * For a passenger car (Category A), a 10-day rovinieta costs approximately **€8.8**.
     * **Estimated Cost: €9** (rounded up)
