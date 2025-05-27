@@ -1,6 +1,9 @@
 ## Driving** **Schedule** **&** **Daily** **Distances:**
 
 - From 9 am to 5 pm daily, with one 1-hour break.
+- the car is Hyundai Kona electric 64kw 
+- average consumption of 15kwh/100km
+- maximum speed up to 120 km/h
 
 ## The** **Recommended** **Route** **(One** **Way):**
 
