@@ -1,1 +1,17 @@
-ferry77Ä1 suunta, minimi hinta vaan laivan lippu ja autoRiga53ÄWarsaw88ÄBudapest57ÄBucharest40ÄThessaloniki178Ä3 nights. without charger: 101ÄAthens204Ä3 nights. without charger: 144Äkalamatatotal315Äone waytime 20-29 JulyAegean1.350Ämeno- palu, hel>ath, cheaper on bookingcar406total1.756Ä
+# Accomodations Examples 
+
+## Ferry
+- price:77‚Ç¨
+- Ecker√∂ lines
+
+## Hotels 
+- Riga53‚Ç¨
+- Warsaw88‚Ç¨
+- Budapest57‚Ç¨
+- Bucharest40‚Ç¨
+
+## In Greece if not with family 
+**no charging in the house, 3 nights**
+- Thessaloniki 101‚Ç¨
+- Athens144‚Ç¨
+- kalamata ?
