@@ -1,8 +1,4 @@
 
-* **Finland:** No general road tolls for passenger cars.
-    * **Cost: €0**
-* **Estonia, Latvia, Lithuania (Baltic States):** For passenger vehicles (under 3 or 3.5 tonnes, like your Hyundai Kona Electric), there are generally no traditional road tolls on main roads. Tolls primarily apply to heavier vehicles (trucks and buses).
-    * **Cost: €0**
 * **Poland:** Poland has toll motorways, mainly sections of the A1, A2, and A4. Tolls are distance-based and can be paid at gates, via mobile apps, or through the e-TOLL system.
     * Given your route, you will likely encounter some toll sections. A rough estimate for a passenger car could be around €15, depending on the specific toll sections you use.
     * **Estimated Cost: €15**
