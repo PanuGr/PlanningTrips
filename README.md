@@ -85,7 +85,10 @@
 > ○ Drive moderately (100-110 km/h) to improve eficiency and reduce
 > charging costs.
 
-**7.** **Other** **Considerations:**
+## Charging networks:
+- Enefit Volt, in Baltic countries: 0,45€/kwh (fast charging)
+
+**8.** **Other** **Considerations:**
 
 > ● **Holiday** **Duration:** You have 4 weeks of summer holidays, which
 > comfortably accommodates the 12-day round trip driving, leaving over
