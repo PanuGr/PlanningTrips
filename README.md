@@ -87,6 +87,7 @@
 
 ## Charging networks:
 - Enefit Volt, in Baltic countries: 0,45€/kwh (fast charging)
+- GreenWay in Poland, Slovakia
 
 **8.** **Other** **Considerations:**
 
