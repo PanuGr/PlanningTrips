@@ -5,8 +5,7 @@
 * **Hungary:** A digital vignette (e-vignette) is mandatory for using most motorways. For a passenger car, a 10-day vignette would cover your transit.
     * A 10-day vignette costs 24€
 * **Romania:** A digital vignette (rovinieta) is mandatory for all vehicles (except motorcycles) on the national road network.
-    * For a passenger car (Category A), a 10-day rovinieta costs approximately **€8.8**.
-    * **Estimated Cost: €9** (rounded up)
+    * For a passenger car (Category A), a 10-day rovinieta costs approximately 4€
 * **Bulgaria:** An e-vignette is required for vehicles up to 3.5 tonnes on most roads. Additionally, there are tolls for bridges crossing the Danube River, such as the Giurgiu-Ruse bridge when entering from Romania.
     * A weekly vignette costs around **€8 (15 BGN)**, and the Giurgiu-Ruse bridge toll is **€2**.
     * **Estimated Cost: €10**
