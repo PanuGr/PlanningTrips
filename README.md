@@ -29,26 +29,7 @@
 > ● **Day** **5:** Bucharest → Sofia → Thessaloniki (~520km). ● **Day**
 > **6:** Thessaloniki → Kalamata (~330km).
 
-**4.** **Schengen** **&** **EU** **Border** **Crossings:**
-
-> ● The route primarily crosses EU and Schengen countries (Finland,
-> Estonia, Latvia, Lithuania, Poland, Slovakia/Hungary, Greece).
->
-> ● A key point is the transit through **Romania** **and** **Bulgaria**.
-
-**5.** **Charging** **Strategy** **&** **Networks:**
-
-> ● **Always** **charge** **to** **80%** at DC fast chargers to maximize
-> speed.
->
-> ● **Charge** **during** **lunch** **breaks** (1 hour could add
-> ~60-70km range).
->
-> ● **Prioritize** **overnight** **AC** **charging** **(7kW)** **at**
-> **hotels** to start each day with 100% battery, saving time and money.
->
-> ● Maintain a **20%** **buffer** **range** for unexpected detours or
-> trafic.
+**4.
 >
 > ● **Essential** **Apps** **&** **Tools:** PlugShare, A Better Route
 > Planner (ABRP), ChargeMap, and Ionity App are crucial for planning and
@@ -68,22 +49,15 @@
 > ○ Accommodation (outside Greece) & Ferries (Turku-Tallinn): **€315**
 > (your calculated figure for July).
 >
-> ○ Food: €250-€350 (reduced in Greece due to family stays). ● **Cost**
-> **Saving** **Strategies:**
->
-> ○ Prioritize overnight AC charging at hotels.
->
-> ○ Utilize charging network memberships for better rates. ○ Compare
-> per-kWh prices at public chargers.
->
-> ○ Book accommodations in advance (3-6 months for peak season) to
-> secure EV charging and better rates.
->
-> ○ Save on food by utilizing supermarkets and hotel breakfasts, and
-> taking advantage of family stays in Greece.
->
-> ○ Drive moderately (100-110 km/h) to improve eficiency and reduce
-> charging costs.
+> ○ Food: €250-€350 (reduced in Greece due to family stays). 
+
+## Cost Saving** **Strategies:**
+
+- Prioritize overnight AC charging at hotels.
+- Utilize charging network memberships.
+- Book accommodations in advance (3-6 months for peak season).
+- Save on food by buying from Lidl,hotel breakfasts, and taking advantage of family stays in Greece.
+- Drive moderately (max 120 km/h) to improve eficiency and reduce charging costs.
 
 ## Charging networks:
 - Lidl in Finland: 0,29€/kwh
