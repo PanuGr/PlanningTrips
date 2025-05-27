@@ -1,0 +1,1 @@
+ferry77€1 suunta, minimi hinta vaan laivan lippu ja autoRiga53€Warsaw88€Budapest57€Bucharest40€Thessaloniki178€3 nights. without charger: 101€Athens204€3 nights. without charger: 144€kalamatatotal315€one waytime 20-29 JulyAegean1.350€meno- palu, hel>ath, cheaper on bookingcar406total1.756€
