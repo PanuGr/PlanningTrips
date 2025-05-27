@@ -35,37 +35,25 @@
 > Planner (ABRP), ChargeMap, and Ionity App are crucial for planning and
 > real-time information.
 
-**6.** **Budget** **&** **Cost** **Savings:**
+## *Budget** **&** **Cost** **Savings:**
+**Original** **One-Way** **Estimate:** €1,250-€1,700.
 
-> ● **Original** **One-Way** **Estimate:** €1,250-€1,700.
->
-> ● **Revised** **One-Way** **Estimate** **(with** **family** **stays**
-> **&** **optimized** **bookings):**
->
-> **€815-€1,015**.
->
-> ○ Charging: €250-€350.
->
-> ○ Accommodation (outside Greece) & Ferries (Turku-Tallinn): **€315**
-> (your calculated figure for July).
->
-> ○ Food: €250-€350 (reduced in Greece due to family stays). 
+### Revised** **One-Way** **Estimate** **(with** **family** **stays**
+> **&** **optimized** **bookings):
+- Charging: €250 see more at [charging](./charging.md)
+- Accommodation: 315€ 
+(outside Greece) & Ferries (Turku-Tallinn). see example at [hotels](./hotels.md)
+- Food: €250-€350 (reduced in Greece due to family stays). 
+- tolls: 100€ see more at [tolls](./tolls.md)
+- Total: 915€ - 1015€
 
-## Cost Saving** **Strategies:**
+### Cost Saving** **Strategies:**
 
 - Prioritize overnight AC charging at hotels.
 - Utilize charging network memberships.
 - Book accommodations in advance (3-6 months for peak season).
 - Save on food by buying from Lidl,hotel breakfasts, and taking advantage of family stays in Greece.
 - Drive moderately (max 120 km/h) to improve eficiency and reduce charging costs.
-
-## Charging networks:
-- Lidl in Finland: 0,29€/kwh
-- Enefit Volt, in Baltic countries: 0,45€/kwh (fast charging)
-- GreenWay in Poland, Slovakia
-- MOL Plugee in Hungary: 0,67€/kwh and Romania: 0,45€/kwh
-- Ionity in Bulgaria and as backup: 0,55€/kwh
-- Dei Blue in Greece: 0,52€/kwh
 
 **8.** **Other** **Considerations:**
 
