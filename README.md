@@ -96,4 +96,4 @@
 
 ### 🗺️ Visual Map of the Route & Charging Stations
 
-[Route Map](https://i.imgur.com/YourMapImage.png)](https://www.google.com/maps/dir/Turku,+Finland/Tallinn,+Estonia/Kaunas,+Lithuania/Warsaw,+Poland/Banská+Bystrica,+Slovakia/Timișoara,+Romania/Craiova,+Romania/Sofia,+Bulgaria/Thessaloniki,+Greece/Athens,+Greece/Kalamata,+Greece)
+[[Route Map](https://i.imgur.com/YourMapImage.png)](https://www.google.com/maps/dir/Turku,+Finland/Tallinn,+Estonia/Kaunas,+Lithuania/Warsaw,+Poland/Banská+Bystrica,+Slovakia/Timișoara,+Romania/Craiova,+Romania/Sofia,+Bulgaria/Thessaloniki,+Greece/Athens,+Greece/Kalamata,+Greece)
