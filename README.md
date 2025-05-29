@@ -86,14 +86,14 @@
 
 | Category                           | Estimated Cost |
 | ---------------------------------- | -------------- |
-| ⛴️ Ferry (Turku → Tallinn)         | €77            |
+| ⛴️ Ferry (Turku → Tallinn)         | €100            |
 | 🏨 Hotels (not in Greece)               | €300          |
 | 🛣️ Tolls & Vignettes              | €126           |
-| 🔌 EV Charging                     | €235.90        |
-| **Total (excluding Greece stays)** | **\~€920.90**  |
+| 🔌 EV Charging                     | €236        |
+| **Total (excluding Greece stays)** | **\~€762**  |
 
 *Note: Add Greek hotels and Kalamata charging costs if not staying with relatives.*
 
 ### 🗺️ Visual Map of the Route & Charging Stations
 
-[![Route Map](https://i.imgur.com/YourMapImage.png)](https://www.google.com/maps/dir/Turku,+Finland/Tallinn,+Estonia/Kaunas,+Lithuania/Warsaw,+Poland/Banská+Bystrica,+Slovakia/Timișoara,+Romania/Craiova,+Romania/Sofia,+Bulgaria/Thessaloniki,+Greece/Athens,+Greece/Kalamata,+Greece)
+[Route Map](https://i.imgur.com/YourMapImage.png)](https://www.google.com/maps/dir/Turku,+Finland/Tallinn,+Estonia/Kaunas,+Lithuania/Warsaw,+Poland/Banská+Bystrica,+Slovakia/Timișoara,+Romania/Craiova,+Romania/Sofia,+Bulgaria/Thessaloniki,+Greece/Athens,+Greece/Kalamata,+Greece)
