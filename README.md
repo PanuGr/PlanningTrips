@@ -118,7 +118,7 @@ Absolutely! Here's your enhanced EV road trip itinerary from **Turku 🇫🇮 to
 | Category                           | Estimated Cost |
 | ---------------------------------- | -------------- |
 | ⛴️ Ferry (Turku → Tallinn)         | €77            |
-| 🏨 Hotels (Days 1–6)               | €482           |
+| 🏨 Hotels (not in Greece)               | €300          |
 | 🛣️ Tolls & Vignettes              | €126           |
 | 🔌 EV Charging                     | €235.90        |
 | **Total (excluding Greece stays)** | **\~€920.90**  |
